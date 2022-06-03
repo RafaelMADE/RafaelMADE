@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Soy un desarrollador de Hardeare y SoftWare, trabaje durante ocho años acargo de un laboratorio para una empresa en el sector del cultivo protegido, mi trabajo concistia en el desarollo de sistemas de control y automaitazcion para invernaderos, posterior mente trabaja para una empresa dedicador al servicio de corte por laser y trabajos de metal mecanica en la cual me desempeñe en el departamente de investigacion en el area de electronica. actual mente trabajo junto con una startup enfocada ala movilidad electrica desarrollando el sistema electronico y el software requerido para pequeños vehiculos electricos.
+
 <!--
 **RafaelMADE/RafaelMADE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
