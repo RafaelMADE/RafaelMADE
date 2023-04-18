@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Soy un desarrollador de Hardeare y SoftWare, trabaje durante ocho años acargo de un laboratorio para una empresa en el sector del cultivo protegido, mi trabajo concistia en el desarollo de sistemas de control y automaitazcion para invernaderos, posterior mente trabaja para una empresa dedicador al servicio de corte por laser y trabajos de metal mecanica en la cual me desempeñe en el departamente de investigacion en el area de electronica. actual mente trabajo junto con una startup enfocada ala movilidad electrica desarrollando el sistema electronico y el software requerido para pequeños vehiculos electricos.
+Soy un desarrollador de Hardware y Software. Trabajé durante ocho años a cargo de un laboratorio para una empresa en el sector del cultivo protegido. Mi trabajo consistía en el desarrollo de sistemas de control y automatización para invernaderos. Posteriormente, trabajé para una empresa dedicada al servicio de corte por láser y trabajos de metal mecánica, en la cual me desempeñé en el departamento de investigación en el área de electrónica. Actualmente, trabajo junto con una startup enfocada a la movilidad eléctrica, desarrollando el sistema electrónico y el software requerido para pequeños vehículos eléctricos.
 
 <!--
 **RafaelMADE/RafaelMADE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
